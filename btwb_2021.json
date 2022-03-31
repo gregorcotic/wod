@@ -1,0 +1,242 @@
+{
+  "Sheet1": [
+    {
+      "week": 1,
+      "day": 1,
+      "warmup": "3-5 mins of jogging, biking, or rowing followed by…\r\n\r\n3 rounds, not for time of:\r\n5 deadlifts, empty barbell\r\n5 hang power cleans, empty barbell\r\n5 front squats, empty barbell\r\n5 hip & back extensions\r\n5 band pull aparts\r\n5 scap pull-ups\r\n5 kip swings\r\n5 ring rows or pull-ups",
+      "wodrx": "4 rounds for max reps of:\r\nRope Climbs, 15 ft, 2 mins\r\nDumbbell Squat Cleans, 50/35 lbs, 1 min\r\n\r\nRest 2 mins between each round.\r\n\r\nUse dumbbells or use a barbell, 115/75 lbs. \r\n\r\nSuper Fitness Robot reps: \r\nTotal Rope Climbs- 28 or more.\r\nTotal Dumbbell Squat Cleans- 40 or more.\r\n\r\nMore Likely reps: \r\nTotal rope climbs- 16 or more.\r\nTotal dumbbell squat cleans- 24 or more.\r\n(consider scaling if this seems unrealistic)",
+      "wodscaled": "4 rounds for max reps of:\r\nRing Rows, 2 mins\r\nDumbbell Squat Cleans, 35/25 lbs, 1 min\r\n\r\nRest 2 mins between each round.\r\n\r\nRing Rows- set at a tough level\r\n\r\nUse dumbbells or use a barbell, 75/55 lbs. ",
+      "wodlimeq": "4 rounds of:\r\n15 Ring Rows\r\nmax rep Dumbbell Squat Cleans, 50 lbs, 1 min | 10, 10, 10, and 10\r\nRest 2 mins",
+      "wodnoeq": "4 rounds for time of:\r\n50 Air Squats\r\nPlank Hold, 45 secs",
+      "ass1": "For quality:\r\nScales\r\nL-Sits\r\nInversions\r\nPlanks\r\nStretching\r\n\r\n15-20 mins of practice divided among the various activities. Choose your own stretching or do what is listed in the cool down.",
+      "ass2": "Double Unders 1x200\r\n\r\nComplete in as few sets as possible.",
+      "cooldown": "Cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nWall Leg Stretch\r\nHold 1-2 mins per side.\r\n\r\nLacrosse Ball Trap Stretch\r\n1-2 mins per side.\r\n\r\nChest & Pec Stretch (hands behind)\r\nHold 1-2 mins.",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 1,
+      "day": 2,
+      "warmup": "4 rounds, not for time of:\r\n1 min of jogging, biking, or rowing (increase pace each round)\r\n7 shoulder pass throughs, pvc pipe\r\n5-7 inchworm push-ups\r\n7 squats (squat therapy style, see video below)\r\n7 sit-ups",
+      "wodrx": "or time:\r\nRun, 1 mi\r\n50 Wall Balls, 20/14 lbs\r\n50 Hollow Rocks\r\nRow, 1 km\r\n50 Hollow Rocks\r\n50 Wall Balls, 20/14 lbs\r\nRun, 1 mi\r\n\r\nOther Equipment Conversions:\r\nReplace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, 2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. If using an Air Runner reduce the distance by 25%.\r\n*If necessary, replace the 1 km row with 2400 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, 1000 m on the Concept 2 Ski Erg or 2000 m on the Concept 2 Bike Erg. If using an Air Runner reduce the distance by 25%.\r\n\r\nSuper Fitness Robot time: \r\n35:00 or less.\r\n\r\nMore Likely time:\r\n50:00 or less.\r\n(consider scaling if this seems unrealistic)",
+      "wodscaled": "For time:\r\nJog, 8 mins\r\n30 Wall Balls, 14/10 lbs\r\n30 Sit-ups\r\nRow, 4 mins\r\n30 Sit-ups\r\n30 Wall Balls, 14/10 lbs\r\nJog, 8 mins\r\n\r\nJog, Walk, Bike, or Row",
+      "wodlimeq": "For time:\r\nRun, 1 mi\r\n50 Jumping Air Squats\r\n50 Hollow Rocks\r\nRun, 800 m\r\n50 Hollow Rocks\r\n50 Jumping Air Squats\r\nRun, 1 mi",
+      "wodnoeq": "For time:\r\nRun, 1 mi\r\n50 Jumping Air Squats\r\n50 Hollow Rocks\r\nRun, 800 m\r\n50 Hollow Rocks\r\n50 Jumping Air Squats\r\nRun, 1 mi",
+      "ass1": "Row 500 m\r\n\r\nThis is an all out effort for time.",
+      "ass2": "3 rounds for quality of:\r\nDot Drill 1, 30 secs\r\n\r\nRest 30 secs-1 min between each round.",
+      "cooldown": "Cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nHamstring Stretch\r\nHold 1-2 mins per side.\r\n\r\nCobra Stretch (abs)\r\n1-2 mins.\r\n\r\nLats & Chest Stretch (bar hang)\r\nHold 1-2 mins.",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 1,
+      "day": 3,
+      "warmup": "2 rounds, not for time of:\r\n50 double unders or single unders\r\n8 hip & back extensions\r\n1x Burgener warm-up with empty bar, 45/35 lbs (see video below)\r\n\r\nThe Burgener warm-up consists of the following:\r\n*Starting with your feet hip width apart\r\n3-5 reps of dip, drive\r\n3-5 reps of dip, drive, shrug\r\n3-5 reps of dip, drive, shrug + pull the bar overhead\r\n*With bar overhead move feet to shoulder width\r\n3-5 reps of overhead squat\r\n*Move feet to hip width stance, bar at the high hang\r\n3-5 reps of dip, drive + pull into the bottom of an overhead squat, then stand\r\n3-5 reps of full snatch ",
+      "wodrx": "Every 1 min for 30 mins: Hang Power Snatch",
+      "wodlimeq": "7 intervals, each interval for time, of:\r\n10 L Arm Dumbbell Hang Power Snatches, 50/35 lbs\r\n10 R Arm Dumbbell Hang Power Snatches, 50/35 lbs\r\n\r\nRest 1 min between each interval.",
+      "wodnoeq": "6 rounds, each round for time, of:\r\n10 Broad Jumps\r\n20 Glute Bridges\r\nPlank Hold, 30 secs\r\n\r\nRest 3 mins between each round",
+      "ass1": "Shoulder Press 12-12-12\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\n\r\n3x8-12 reps",
+      "ass2": "Farmers Carry 1-1-1\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\nSpecify distance in notes.\r\n\r\n3x 30-100 m",
+      "cooldown": "Straddle Stretch\r\nHold 1-2 mins.\r\n\r\nFoam Roller (back, lats, etc.)\r\n\r\nLacrosse Ball Trap Stretch\r\n1-2 mins per side.",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 1,
+      "day": 4,
+      "warmup": "Rest day"
+    },
+    {
+      "week": 1,
+      "day": 5,
+      "warmup": "2-4 mins of jogging, biking, or rowing followed by…\r\n\r\n3 rounds, not for time of:\r\n100 m shuttle sprint (2x 50 m, increase the pace each round)\r\n8 air squats (squat therapy style, see video below)\r\n8 stiff legged deadlifts, empty barbell\r\n8 glute bridges (no weight or empty barbell)\r\n6 inchworm push-ups\r\n6 hip & back extensions\r\n4 broad jumps",
+      "wodrx": "5 rounds for time of:\r\n70 Double Unders\r\n5 Deadlifts, pick load\r\n30 Push-ups\r\n\r\nFor time (or not). ",
+      "wodscaled": "5 rounds for time of:\r\n50 Single Unders\r\n5 Deadlifts, pick load\r\n20 Push-ups",
+      "wodlimeq": "5 rounds for time of:\r\n70 Double Unders\r\n10 R Leg Dumbbell Single Stiff Legged Deadlifts, 50/35 lbs\r\n10 L Leg Dumbbell Single Stiff Legged Deadlifts, 50/35 lbs\r\n30 Push-ups\r\n\r\nFor time (or not). ",
+      "wodnoeq": "5 rounds for time of:\r\nJumping Jack, 1 min\r\n15 Glute Bridges\r\n30 Push-ups\r\n\r\nFor time (or not). \r\n\r\nGlute Bridges- 2 sec pause at the top",
+      "ass1": "Barbell Glute Bridge 10-10-10\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\n\r\n3x5-10 reps",
+      "ass2": "4 rounds for quality of:\r\nDot Drill 2, 30 secs\r\n\r\nComplete 2 rounds with the R foot and 2 rounds with the L foot. \r\n\r\nRest 30 secs-1 min between each round.",
+      "cooldown": "Cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nGlute Stretch\r\nHold 1-2 mins per side.\r\n\r\nPec Stretch (laying on side)\r\n1-2 mins per side.\r\n\r\nFoam Roller (back, lats, etc.)",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 1,
+      "day": 6,
+      "warmup": "3 rounds, not for time of:\r\n25 jumping jacks\r\n7 pvc pass throughs\r\n5-10 power clean + press or push press, empty barbell or pvc pipe\r\n10 sec handstand hold against wall (or top of push-up)\r\n5 band pull aparts\r\n5 scap pull-ups\r\n5 kip swings\r\n5 ring rows or pull-ups",
+      "wodrx": "21-15-9 reps, for time of:\r\nShoulder-to-Overhead, 135/95 lbs\r\nChest-to-bar Pull-up\r\n\r\nSuper Fitness Robot time: \r\n4:15 or less.\r\n\r\nMore Likely time:\r\n7:00 or less.\r\n(consider scaling if this seems unrealistic)",
+      "wodscaled": "21-15-9 reps, for time of:\r\nShoulder-to-Overhead, 95/65 lbs\r\nPull-up\r\n\r\nPull-ups or Ring Rows",
+      "wodlimeq": "21-15-9 reps, for time of:\r\nDumbbell Push Press, 50/35 lbs\r\nChest-to-bar Pull-up",
+      "wodnoeq": "21-15-9 reps, for time of:\r\nStrict Handstand Push-up\r\nBurpee",
+      "ass1": "3 rounds for max reps of:\r\nHang Power Cleans, pick load, 30 secs\r\nShoulder-to-Overheads, pick load, 30 secs\r\n\r\nRest 2 mins between each round.\r\n\r\nDoes NOT need to be unbroken. You choose the loading.",
+      "ass2": "Strict Pull-ups 3x15\r\n\r\nRest as needed between sets.\r\n\r\n3x8-15 reps",
+      "cooldown": "Cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nWall Shoulder Stretch\r\nHold 1-2 mins.\r\n\r\nChest & Pec Stretch (hands behind)\r\nHold 1-2 mins.",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 1,
+      "day": 7,
+      "warmup": "Rest day"
+    },
+    {
+      "week": 2,
+      "day": 1,
+      "warmup": "2-4 mins of jogging, biking, or rowing followed by…\r\n\r\n3 rounds, not for time of:\r\n1 min foam rolling (lats + low back)\r\n8-10 sit-ups\r\n8 shoulder pass throughs, pvc pipe\r\n7 hip & back extensions\r\n6 steps walking lunge, barbell overhead (press width grip if possible)\r\n5 front squats, empty barbell",
+      "wodrx": "For time:\r\nShuttle Run, 200 m (4x 50 m)\r\n12 Front Squats, 65% 1RM\r\nShuttle Run, 200 m (4x 50 m)\r\n35 GHD Sit-ups\r\nShuttle Run, 200 m (4x 50 m)\r\nWalking Lunge, 70 m\r\nShuttle Run, 200 m (4x 50 m)\r\n35 GHD Sit-ups\r\nShuttle Run, 200 m (4x 50 m)\r\n12 Front Squats, 65% 1RM\r\nShuttle Run, 200 m (4x 50 m)\r\n\r\nFor time (or not). \r\n\r\nOther Equipment Conversions:\r\nReplace each 200 m of running with 600 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, 250 m on the Concept 2 Rower, the Concept 2 Ski Erg, 500 m on the Concept 2 Bike Erg or 45 secs of single unders or jumping jacks. If using an Air Runner reduce the distance by 25%.\r\n\r\nSuper Fitness Robot time: \r\n15:30 or less.\r\n\r\nMore Likely time: \r\n23:00 or less.\r\n(consider scaling if this seems unrealistic)",
+      "wodscaled": "For time:\r\nShuttle Run, 200 m (4x 50 m)\r\n12 Front Squats, 50% 1RM\r\nShuttle Run, 200 m (4x 50 m)\r\n35 Sit-ups\r\nShuttle Run, 200 m (4x 50 m)\r\nWalking Lunge, 40 m\r\nShuttle Run, 200 m (4x 50 m)\r\n35 Sit-ups\r\nShuttle Run, 200 m (4x 50 m)\r\n12 Front Squats, 50% 1RM\r\nShuttle Run, 200 m (4x 50 m)\r\n\r\nFor time (or not). \r\n\r\nFront Squats or Back Squats",
+      "wodlimeq": "4 Shuttle Runs, 50 m\r\n25 Dumbbell Squats, 50 lbs\r\n4 Shuttle Runs, 50 m\r\n35 V-ups\r\n4 Shuttle Runs, 50 m\r\nWalking Lunge, 75 m\r\n4 Shuttle Runs, 50 m\r\n35 V-ups\r\n4 Shuttle Runs, 50 m\r\n25 Dumbbell Squats, 50 lbs\r\n4 Shuttle Runs, 50 m",
+      "wodnoeq": "For time:\r\nShuttle Run, 200 m (4x 50 m)\r\n50 Air Squats\r\nShuttle Run, 200 m (4x 50 m)\r\n35 V-ups\r\nShuttle Run, 200 m (4x 50 m)\r\nWalking Lunge, 75 m\r\nShuttle Run, 200 m (4x 50 m)\r\n35 V-ups\r\nShuttle Run, 200 m (4x 50 m)\r\n50 Air Squats\r\nShuttle Run, 200 m (4x 50 m)\r\n\r\nFor time (or not). ",
+      "ass1": "Dumbbell Box Step-up 1x40\r\n\r\nUse the heaviest weight you can for the set.\r\n\r\n1x30-40 reps\r\n\r\nYou choose the box height and loading. Alternate legs each step.",
+      "ass2": "Double Unders 1x200\r\n\r\nComplete in as few sets as possible.",
+      "cooldown": "Cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nCobra Stretch (abs)\r\n1-2 mins.\r\n\r\nKneeling Lay Back\r\nHold 1-2 mins.",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 2,
+      "day": 2,
+      "warmup": "2 rounds, not for time of:\r\n2 mins of rowing, biking, or jogging (increase pace each min)\r\n8 hip & back extensions\r\n1x Burgener warm-up with empty bar, 45/35 lbs (see video below)\r\n\r\nThe Burgener warm-up consists of the following:\r\n*Starting with your feet hip width apart\r\n3-5 reps of dip, drive\r\n3-5 reps of dip, drive, shrug\r\n3-5 reps of dip, drive, shrug + pull the bar overhead\r\n*With bar overhead move feet to shoulder width\r\n3-5 reps of overhead squat\r\n*Move feet to hip width stance, bar at the high hang\r\n3-5 reps of dip, drive + pull into the bottom of an overhead squat, then stand\r\n3-5 reps of full snatch ",
+      "wodrx": "3 rounds for time of:\r\n9 Power Snatches, 60% 1RM\r\n9/6 Bike Calories\r\n\r\nRest 5 mins before part 2…\r\n\r\n3 rounds for time of:\r\n9 Power Cleans, 50% 1RM\r\n9/6 Bike Calories\r\n\r\nOR complete the RX'd/Scaled partner option...\r\n\r\nCalorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x.\r\n*For running look at the Limited Equipment option.\r\n\r\nSuper Fitness Robot time: \r\n3:15 or less for bike/power snatch.\r\n3:00 or less for bike/power clean.\r\n\r\nMore Likely time:\r\n5:00 or less for bike/power snatch.\r\n4:30 or less for bike/power clean.\r\n(consider scaling if this seems unrealistic)",
+      "wodlimeq": "3 rounds for time of:\r\n20 Dumbbell Power Snatches, 50/35 lbs\r\nShuttle Sprint, 200 m (4x 50 m)\r\n\r\nRest 5 mins before part 2…\r\n\r\n rounds for time of:\r\n20 Dumbbell Power Cleans, 50/35 lbs\r\nShuttle Sprint, 200 m (4x 50 m)",
+      "wodnoeq": "3 rounds for time of:\r\n20 Tuck Jumps\r\nShuttle Sprint, 200 m (4x 50 m)\r\n\r\nRest 5 mins before part 2…\r\n\r\n3 rounds for time of:\r\n20 Burpees\r\nShuttle Sprint, 200 m (4x 50 m)",
+      "ass1": "1 Power Snatch + 2 Overhead Squat + 1 Hang Squat Snatch + 2 Overhead Squat + 1 Squat Snatch 1-1-1\r\n\r\nUse the heaviest weight you can for each set.\r\nRest 1:30 between sets.\r\n\r\n2-3x(1+2+1+2+1)\r\n\r\nPerform the complex 2-3 times. Does NOT need to be unbroken. ",
+      "ass2": "Row 500 m\r\n\r\nThis is an all out effort for time.\r\n\r\nOr\r\n\r\nRun 400 m\r\n\r\nThis is an all out effort for time.",
+      "cooldown": "Cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nLacrosse Ball Trap Stretch\r\n1-2 mins per side.\r\n\r\nFrog Stretch\r\nHold 1-2 mins.",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 2,
+      "day": 3,
+      "warmup": "3 rounds, not for time of:\r\n1 min of jumping jacks\r\n10 stiff legged deadlifts, empty barbell\r\n5 shoulder pass throughs, pvc pipe\r\n2 Turkish get-ups, R arm - you choose load\r\n2 Turkish get-ups, L arm - you choose load\r\n5-10 shoulder press, empty barbell\r\n5 band pull aparts\r\n5 scap pull-ups\r\n5 kip swings\r\n5 low ring muscle-ups (lots of leg, see video)",
+      "wodrx": "Nate\r\nComplete as many rounds as possible in 20 mins of:\r\n2 Muscle-ups\r\n4 Handstand Push-ups\r\n8 Kettlebell Swings, 2/1.5 pood\r\n\r\nChief Petty Officer Nate Hardy was killed Sunday February 4th during combat operations in Iraq. Nate is survived by his wife, Mindi, and his infant son Parker.\r\n\r\nWe're asking the CrossFit community to make donations to the \"Nate Hardy Memorial Fund\" in care of the Navy Federal Credit Union, Building 200, FTC Dam Neck, Virginia Beach, VA, 23461.\r\n\r\nCompare to 08.05.2020.\r\n\r\nSuper Fitness Robot rounds: \r\nMen: 15 rounds or more.\r\nWomen: 13 rounds or more.\r\n\r\nMore Likely rounds:\r\nMen: 11 rounds or more.\r\nWomen: 10 rounds or more.\r\n(consider scaling if this seems unrealistic)",
+      "wodscaled": "Complete as many rounds as possible in 15 mins of:\r\n2 Low Ring Muscle-ups\r\n4 Pike Box Handstand Push-ups\r\n8 Russian Kettlebell Swings, 53/35 lbs\r\n\r\nPiked Box Handstand Push-ups or Shoulder Press, 50% 1RM",
+      "wodlimeq": "Complete as many rounds as possible in 20 mins of:\r\n2 Low Ring Muscle-ups\r\n4 Handstand Push-ups\r\n8 Dumbbell Swings, 50/35 lbs",
+      "wodnoeq": "10 rounds for time of:\r\n4 Handstand Push-ups\r\n6 Glute Bridges\r\n8 Jumping Air Squats\r\n\r\nGlute Bridges- 2 sec pause at the top",
+      "ass1": "Plank Hold 1x 120 secs\r\n\r\nAccumulate 1-2 mins.",
+      "ass2": "Overhead Carry 1-1-1\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\nSpecify distance in notes.\r\n\r\n3x 100 ft\r\n\r\nUse two dumbbells/kettlebells or one barbell. You choose the load.",
+      "cooldown": "Cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nGlute Stretch\r\nHold 1-2 mins per side.\r\n\r\nFoam Roller (back, lats, etc.)\r\n\r\nChest & Pec Stretch (hands behind)\r\nHold 1-2 mins.",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 2,
+      "day": 4,
+      "warmup": "Rest day"
+    },
+    {
+      "week": 2,
+      "day": 5,
+      "warmup": "3-4 mins of jogging, biking, or rowing followed by…\r\n\r\n4 rounds, not for time of:\r\n10 m high knees\r\n10 m butt kicks\r\n6 steps, walking lunges\r\n6 lateral lunges (3 per side)\r\n6 inchworm push-ups\r\n50 m run (increase acceleration each time)\r\n60 secs of rest\r\n-- then --\r\nDot Drill 1:\r\nPerform for 3 rounds, each round is 30 secs.\r\nRest 30-60 secs between rounds.",
+      "wodrx": "10 intervals, each interval for time, of:\r\n10 Burpees\r\nSprint, 100 m\r\n\r\nRest 2 mins between each interval.\r\n\r\nIf necessary, replace each 100 m sprint with 15 secs of high intensity biking or rowing.\r\n\r\nSuper Fitness Robot time: \r\n45 secs or less per interval.\r\n\r\nMore Likely time: \r\n65 secs or less per interval.\r\n(consider scaling if this seems unrealistic)",
+      "wodscaled": "7 intervals, each interval for time, of:\r\n7 Burpees\r\nSprint, 100 m\r\n\r\nRest 2 mins between each interval.\r\n\r\nIf necessary, replace each 100 m sprint with 15 secs of high intensity biking or rowing.",
+      "wodlimeq": "10 intervals, each interval for time, of:\r\n10 Burpees\r\nSprint, 100 m\r\n\r\nRest 2 mins between each interval.\r\n\r\nIf necessary, replace each 100 m sprint with 15 secs of high intensity biking or rowing.\r\n\r\nSuper Fitness Robot time: \r\n45 secs or less per interval.\r\n\r\nMore Likely time: \r\n65 secs or less per interval.\r\n(consider scaling if this seems unrealistic)",
+      "wodnoeq": "10 intervals, each interval for time, of:\r\n10 Burpees\r\nSprint, 100 m\r\n\r\nRest 2 mins between each interval.\r\n\r\nIf necessary, replace each 100 m sprint with 15 secs of high intensity biking or rowing.\r\n\r\nSuper Fitness Robot time: \r\n45 secs or less per interval.\r\n\r\nMore Likely time: \r\n65 secs or less per interval.\r\n(consider scaling if this seems unrealistic)",
+      "ass1": "For quality:\r\nPlanche Progression Work, 10 mins\r\n\r\nSpend 5-10 mins at whichever step in the progression is appropriate for you.\r\n\r\nOR option B…\r\n\r\nLandmine Twist 12-12-12\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\n\r\n3x8-12 reps",
+      "ass2": "Farmers Carry 1-1-1\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\nSpecify distance in notes.\r\n\r\n3x 30-100 m\r\n\r\nUse a heavy load. Increase the distance as needed if the load is too light.",
+      "cooldown": "Cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nHamstring Stretch\r\nHold 1-2 mins per side.\r\n\r\nWall Leg Stretch\r\nHold 1-2 mins per side.\r\n\r\nCalves & Foam Rolling",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 2,
+      "day": 6,
+      "warmup": "3-5 mins of jogging, biking, or rowing followed by…\r\n\r\n3 rounds, not for time of:\r\n5 hip & back extensions\r\n5 deadlifts, empty barbell\r\n5 hang power cleans, empty barbell\r\n5 front squats, empty barbell\r\n5 shoulder press, empty barbell",
+      "wodrx": "Clean & Jerk 3-3-3-3-3\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\n\r\nCompare to 06.10.2020.\r\n\r\nSee \"How to Approach Heavy Days\" for insight on warming-up, choosing the weight, rest periods, and more.\r\n\r\nSuper Fitness Robot load: \r\n75% or more of 1RM.\r\n\r\nMore Likely load:\r\n50% or more of 1RM.\r\n(consider scaling if this seems unrealistic)",
+      "wodscaled": "Power Clean + Front Squat + Split Jerk 3-3-3-3-3\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\n\r\n5 sets of 3x(1+1+1)\r\n\r\nSplit Jerk or Push Press",
+      "wodlimeq": "Dumbbell Single Stiff Legged Deadlift 3x12, using same weight per set\r\nSingle Arm Dumbbell Row 3x12, using same weight per set\r\nBulgarian Split Squat 3x10, using same weight per set\r\nDumbbell Shoulder Press 3x12, using same weight per set\r\nDumbbell Hang Power Clean 1x40, using same weight for the set\r\n\r\nDumbbell Single Stiff Legged Deadlifts- 3x8-12 reps per leg\r\nSingle Arm Dumbbell Rows- 3x8-12 reps per arm\r\nBulgarian Split Squats- 3x8-10 reps per leg\r\nDumbbell Shoulder Press- 3x8-12 reps\r\nDumbbell Hang Power Cleans- 40 reps in as few sets as possible",
+      "wodnoeq": "10 rounds of:\r\nStanding Broad Jump, 30 secs\r\n15 Push-ups\r\nRest 1 min",
+      "ass1": "For time:\r\n20 Squat Clean & Jerks, pick load\r\n\r\n15-20 reps\r\n65-70% 1RM\r\n\r\nOR option B…\r\n\r\nSingle Stiff Legged Deadlift 12-12-12\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\n\r\n3x8-12 reps per leg\r\n\r\nOR option C…\r\n\r\nClean Pull 5-5-5-5\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\n\r\n3-4x2-5 reps at 80-110% 1RM Clean",
+      "ass2": "Run 800 m\r\n\r\nThis is an all out effort for time.",
+      "cooldown": "Cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nGlute Stretch\r\nHold 1-2 mins per side.\r\n\r\nFoam Roller (back, lats, etc.)",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 2,
+      "day": 7,
+      "warmup": "Rest day"
+    },
+    {
+      "week": 3,
+      "day": 1,
+      "warmup": "2 rounds, not for time of:\r\n2 mins of jogging, biking, or rowing (increase pace each round)\r\n10 hip & back extensions\r\n10 squats (squat therapy style, see video below)\r\n10 pass throughs with pvc pipe\r\n10 toes-to-bars, knees-to-elbows, GHD, or AbMat sit-ups\r\n5 overhead squats, empty barbell (3-5 secs descending, 3-5 secs up)\r\n5-10 band pull aparts\r\n5-10 scap pull-ups\r\n5-10 kip swings\r\n5-10 ring rows or pull-ups",
+      "wodrx": "3 rounds for time of:\r\nRun, 400 m\r\n10 Bar Muscle-ups\r\n10 Overhead Squats, 60% 1RM\r\n\r\nOther Equipment Conversions:\r\nReplace each 400 m of running with 1200 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, 500 m on the Concept 2 Rower, the Concept 2 Ski Erg, 1000 m on the Concept 2 Bike Erg or 90 secs of single unders or jumping jacks. If using an Air Runner reduce the distance by 25%.\r\n\r\nSuper Fitness Robot time: \r\n12:00 or less.\r\n\r\nMore Likely time: \r\n17:00 or less.\r\n(consider scaling if this seems unrealistic)",
+      "wodscaled": "3 rounds for time of:\r\nRun, 400 m\r\n10 Chest-to-bar Pull-ups\r\n10 Overhead Squats, 60% 1RM\r\n\r\nChest-to-bar Pull-ups, Pull-ups, or Ring Rows\r\nOverhead Squats or Front Squats",
+      "wodlimeq": "3 rounds for time of:\r\nRun, 400 m\r\n10 Low Ring Muscle-ups\r\n10 L Arm Dumbbell Overhead Squats, 50/35 lbs\r\n10 R Arm Dumbbell Overhead Squats, 50/35 lbs\r\n\r\nOR option 2…\r\n\r\n3 rounds for time of:\r\nRun, 400 m\r\n10 Low Ring Muscle-ups\r\nDumbbell L Arm Front Rack + R Arm Overhead Lunge, 50/35 lbs, 10 m\r\nDumbbell R Arm Front Rack + L Arm Overhead Lunge, 50/35 lbs, 10 m",
+      "wodnoeq": "3 rounds for time of:\r\nRun, 400 m\r\nHandstand Walk, 20 m\r\nWalking Lunge, 40 m",
+      "ass1": "2 rounds of:\r\n1 set at 75% of max effort Strict Pull-ups",
+      "ass2": "4 rounds for quality of:\r\nSingle Leg Lateral Line Hop, 30 secs\r\n\r\nComplete 2 rounds with the R foot and 2 rounds with the L foot. Perform the drill both forwards and backwards.\r\n\r\nRest 30 secs-1 min between each round.",
+      "cooldown": "Cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nLacrosse Ball Trap Stretch\r\n1-2 mins per side.\r\n\r\nWall Leg Stretch\r\nHold 1-2 mins per side.",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 3,
+      "day": 2,
+      "warmup": "2 rounds, not for time of:\r\n1 min of jumping jacks\r\n10-15 sit-ups\r\n10-15 ring rows\r\n1x Burgener warm-up with empty bar, 45/35 lbs (see video below)\r\n\r\nThe Burgener warm-up consists of the following:\r\n*Starting with your feet hip width apart\r\n3-5 reps of dip, drive\r\n3-5 reps of dip, drive, shrug\r\n3-5 reps of dip, drive, shrug + pull the bar overhead\r\n*With bar overhead move feet to shoulder width\r\n3-5 reps of overhead squat\r\n*Move feet to hip width stance, bar at the high hang\r\n3-5 reps of dip, drive + pull into the bottom of an overhead squat, then stand\r\n3-5 reps of full snatch ",
+      "wodrx": "For time:\r\n100 Double Unders\r\n25 Dumbbell Push Press, 50/35 lbs\r\n25 Knees-to-elbows\r\n75 Double Unders\r\n20 Dumbbell Push Press, 50/35 lbs\r\n20 Knees-to-elbows\r\n50 Double Unders\r\n15 Dumbbell Push Press, 50/35 lbs\r\n15 Knees-to-elbows\r\n\r\nFor time (or not). \r\n\r\nUse dumbbells or use a barbell, 115/75 lbs. \r\n\r\nSuper Fitness Robot time: \r\n7:45 or less.\r\n\r\nMore Likely time: \r\n12:00 or less.\r\n(consider scaling if this seems unrealistic)",
+      "wodscaled": "For time:\r\n100 Single Unders\r\n25 Dumbbell Push Press, 35/25 lbs\r\n25 Hanging Knee Raises\r\n75 Single Unders\r\n20 Dumbbell Push Press, 35/25 lbs\r\n20 Hanging Knee Raises\r\n50 Single Unders\r\n15 Dumbbell Push Press, 35/25 lbs\r\n15 Hanging Knee Raises\r\n\r\nFor time (or not). \r\n\r\n100-75-50 Single Unders or Double Under Attempts, 2 mins/1:30/1 min\r\nHanging Knee Raises or Sit-ups\r\n\r\nUse dumbbells or use a barbell, 75/55 lbs. ",
+      "wodlimeq": "For time:\r\n100 Double Unders\r\n25 Dumbbell Push Press, 50/35 lbs\r\n25 Knees-to-elbows\r\n75 Double Unders\r\n20 Dumbbell Push Press, 50/35 lbs\r\n20 Knees-to-elbows\r\n50 Double Unders\r\n15 Dumbbell Push Press, 50/35 lbs\r\n15 Knees-to-elbows\r\n\r\nFor time (or not). \r\n\r\nUse dumbbells or use a barbell, 115/75 lbs. \r\n\r\nSuper Fitness Robot time: \r\n7:45 or less.\r\n\r\nMore Likely time: \r\n12:00 or less.\r\n(consider scaling if this seems unrealistic)",
+      "wodnoeq": "For time:\r\n100 Jumping Jacks\r\n50 Push-ups\r\n50 Sit-ups\r\n75 Jumping Jacks\r\n40 Push-ups\r\n40 Sit-ups\r\n50 Jumping Jacks\r\n30 Push-ups\r\n30 Sit-ups\r\n\r\nFor time (or not). ",
+      "ass1": "3 rounds for max reps of:\r\nHang Power Cleans, pick load, 30 secs\r\nShoulder-to-Overheads, pick load, 30 secs\r\n\r\nRest 2 mins between each round.\r\n\r\nDoes NOT need to be unbroken. You choose the loading.\r\n\r\nOR option B…\r\n\r\nOverhead Carry 1-1-1\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\nSpecify distance in notes.\r\n\r\n3x 100 ft\r\n\r\nUse two dumbbells/kettlebells or one barbell. You choose the load.",
+      "ass2": "For time:\r\n50 Burpee Box Jump Overs, 24/20 in",
+      "cooldown": "cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nPec Stretch (laying on side)\r\n1-2 mins per side.\r\n\r\nCobra Stretch (abs)\r\n1-2 mins.\r\n\r\nCalves & Foam Rolling",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 3,
+      "day": 3,
+      "warmup": "2-4 mins of jogging, biking, or rowing followed by…\r\n\r\n3 rounds, not for time of:\r\n100 m shuttle sprint (2x 50 m, increase the pace each round)\r\n12 jumping air squats\r\n8-12 stiff legged deadlifts, empty barbell\r\n8-12 glute bridges, no weight or empty barbell\r\n6 hip & back extensions\r\n4 broad jumps",
+      "wodrx": "Deadlift 5-5-5-5-5\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\n\r\nCompare to 11.02.2019.\r\n\r\nSee \"How to Approach Heavy Days\" for insight on warming-up, choosing the weight, rest periods, and more.\r\n\r\nSuper Fitness Robot load: \r\n70% or higher of 1RM.\r\n\r\nMore Likely load: \r\n50% or higher of 1RM.\r\n(consider scaling if this seems unrealistic)",
+      "wodscaled": "Deadlift 5-5-5-5-5\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\n\r\nCompare to 11.02.2019.\r\n\r\nSee \"How to Approach Heavy Days\" for insight on warming-up, choosing the weight, rest periods, and more.\r\n\r\nSuper Fitness Robot load: \r\n70% or higher of 1RM.\r\n\r\nMore Likely load: \r\n50% or higher of 1RM.\r\n(consider scaling if this seems unrealistic)",
+      "wodlimeq": "Dumbbell Single Stiff Legged Deadlift 12-12-12-12, using heaviest weight per set\r\nSingle Arm Dumbbell Row 12-12-12-12, using heaviest weight per set\r\nBulgarian Split Squat 12-12-12, using heaviest weight per set",
+      "wodnoeq": "10 rounds, 30 secs per station, for max reps of:\r\nBroad Jump\r\nR Single Stiff Legged Deadlift\r\nL Single Stiff Legged Deadlift\r\nRest 1:30",
+      "ass1": "Side Plank 2x 120 secs\r\n\r\nRest as needed between sets.\r\n\r\nAccumulate 1-2 mins per side.",
+      "ass2": "Barbell Glute Bridge 10-10-10\r\n\r\nUse the heaviest weight you can for each set.\r\nRest as needed between sets.\r\n\r\n3x5-10 reps",
+      "cooldown": "Cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nGlute Stretch\r\nHold 1-2 mins per side.\r\n\r\nFoam Roller (back, lats, etc.)",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 3,
+      "day": 4,
+      "warmup": "Rest day"
+    },
+    {
+      "week": 3,
+      "day": 5,
+      "warmup": "3 mins of biking, rowing, or jogging (increase pace each min)\r\n-- then --\r\n1x Burgener warm-up with empty bar, 45/35 lbs (see video below)\r\n-- then --\r\n3 rounds, not for time of:\r\n5 hip & back extensions\r\n10 sit-ups\r\n5 shoulder pass throughs, pvc pipe\r\n5 band pull aparts\r\n5 scap pull-ups\r\n5 kip swings\r\n5 ring rows or pull-ups\r\n-- then --\r\n1x Burgener warm-up with empty bar, 45/35 lbs\r\n\r\nThe Burgener warm-up consists of the following:\r\n*Starting with your feet hip width apart\r\n3-5 reps of dip, drive\r\n3-5 reps of dip, drive, shrug\r\n3-5 reps of dip, drive, shrug + pull the bar overhead\r\n*With bar overhead move feet to shoulder width\r\n3-5 reps of overhead squat\r\n*Move feet to hip width stance, bar at the high hang\r\n3-5 reps of dip, drive + pull into the bottom of an overhead squat, then stand\r\n3-5 reps of full snatch ",
+      "wodrx": "4 intervals, each interval for time, of:\r\n8 Strict Pull-ups\r\n8 Kipping Pull-ups\r\nFront Rack Lunge, 135/95 lbs, 15 m\r\n15 Toes-to-bars\r\n18/12 Bike Calories\r\n\r\nRest 3 mins between each interval.",
+      "wodscaled": "4 intervals, each interval for time, of:\r\n8 Ring Rows\r\n8 Ring Rows\r\nFront Rack Lunge, 95/65 lbs, 15 m\r\n15 Hanging Knee Raises\r\n18/12 Bike Calories\r\n\r\nRest 3 mins between each interval.",
+      "wodlimeq": "4 intervals, each interval for time, of:\r\n8 Strict Pull-ups\r\n8 Kipping Pull-ups\r\nDumbbell Front Rack Walking Lunge, 50/35 lbs, 15 m\r\n15 Toes-to-bars\r\nShuttle Run, 200 m (2x 100 m)",
+      "wodnoeq": "4 intervals, each interval for time, of:\r\n15 Tuck Jumps\r\nWalking Lunge, 30 m\r\n15 V-ups\r\nSprint, 400 m\r\n\r\nRest 3 mins between each interval.",
+      "ass1": "Barbell Bent Over Row 12-12-12-12",
+      "ass2": "For quality:\r\n40 L/40 R Pistols\r\n\r\n20-40 L/20-40 R Pistols (aka Single Leg Squats)",
+      "cooldown": "Cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nCobra Stretch (abs)\r\n1-2 mins.\r\n\r\nKneeling Lay Back\r\nHold 1-2 mins.",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 3,
+      "day": 6,
+      "warmup": "4 rounds, not for time of:\r\n30 secs of jumping jacks\r\n5 shoulder pass throughs, pvc pipe\r\n5 inchworm push-ups\r\n1 Turkish get-up, R arm - you choose load\r\n1 Turkish get-up, L arm - you choose load\r\n7 jumping air squats\r\n5-7 shoulder press, empty barbell",
+      "wodrx": "Shoulder Press 1-1-1-1-1, using heaviest weight per set\r\nPush Press 3-3-3-3-3, using heaviest weight per set\r\nPush Jerk 5-5-5-5-5, using heaviest weight per set\r\n\r\nSuper Fitness Robot load: \r\n85% or more of your 1RM shoulder press across all movements.\r\n\r\nMore Likely load:\r\n60% or more of your 1RM shoulder press across all movements.\r\n(consider scaling if this seems unrealistic)",
+      "wodscaled": "Shoulder Press 1-1-1-1-1, using heaviest weight per set\r\nPush Press 3-3-3-3-3, using heaviest weight per set\r\nSplit Jerk 5-5-5-5-5, using heaviest weight per set",
+      "wodlimeq": "5 rounds, each for time and reps, of\r\n5 Dumbbell Shoulder Press, 50/35 lbs\r\n6 Dumbbell Push Press, 50/35 lbs\r\nmax rep Dumbbell Push Jerks, 50/35 lbs\r\n\r\nRest 2 mins between each round.",
+      "wodnoeq": "For time:\r\n150 Hand Release Push-ups",
+      "ass1": "For quality:\r\nScales\r\nL-Sits\r\nInversions\r\nPlanks\r\nStretching\r\n\r\n15-20 mins of practice divided among the various activities. Choose your own stretching or do what is listed in the cool down.",
+      "ass2": "Double Unders 1x200\r\n\r\nComplete in as few sets as possible.",
+      "cooldown": "Cool down for 5-15 mins by casually walking, jogging, biking or rowing, then stretch.\r\n\r\nLacrosse Ball Trap Stretch\r\n1-2 mins per side.\r\n\r\nChest & Pec Stretch (hands behind)\r\nHold 1-2 mins.",
+      "equpconv": "Replace each mile of running with 4800 m on the Rogue Echo Bike, Assault Bike, or Schwinn Airdyne, \r\n2000 m on the Concept 2 Rower, the Concept 2 Ski Erg or 4000 m on the Concept 2 Bike Erg. \r\nIf using an Air Runner reduce the distance by 25%.",
+      "calconv": "Calorie Conversions:\r\nRogue Echo Bike 1x.\r\nAssault Bike 1x.\r\nConcept 2 Rower 1x.\r\nConcept 2 Ski Erg 1x.\r\nConcept 2 Bike Erg 1.4x.\r\nSchwinn Airdyne 1.5x."
+    },
+    {
+      "week": 3,
+      "day": 7,
+      "warmup": "Rest day"
+    }
+  ]
+}
